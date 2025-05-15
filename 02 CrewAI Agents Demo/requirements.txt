@@ -1,0 +1,10 @@
+# crewai==0.22.5
+# crewai[tools]
+# langchain_openai
+# langchain_community
+
+
+crewai==0.28.8 
+crewai_tools==0.1.6 
+langchain_community==0.0.29 
+langchain_groq
